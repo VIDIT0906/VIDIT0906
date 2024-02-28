@@ -13,8 +13,10 @@
 const vidit = {
   pronouns: "he" | "him",
   code: [Python, Java],
-  AI: [Machine LEarning, Computer Vision]
- challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+  AI: [Machine Learning, Computer Vision]
+  databases: [MySQL]
+  challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+  funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
 
